@@ -1,0 +1,4 @@
+name: Bukkit
+version: '${version}'
+main: me.hiencao.playercountsync.PlayerCountSync
+api-version: '1.20'
